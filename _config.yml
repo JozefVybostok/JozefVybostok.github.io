@@ -1,0 +1,8 @@
+title: "Ing. Jozef Výbošťok PhD."
+description: "3D skenovanie, LiDAR a výskum lesných ekosystémov"
+url: "https://jozefvybostok.github.io"
+baseurl: ""
+
+remote_theme: alshedivat/al-folio
+plugins:
+  - jekyll-remote-theme

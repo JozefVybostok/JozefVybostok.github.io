@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "Jozef Výbošťok"
+title: "Forest4D"
 subtitle: "3D skenovanie, LiDAR a lesných ekosystémov"
 ---

@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Profilová fotka](/assets/img/profile.jpg)
 
-### Ing. Jozef Výbošťok PhD.
+### Ing. Jozef Výbošťok, PhD.
 
 Researcher at the Faculty of Forestry, Technical University in Zvolen.
 
